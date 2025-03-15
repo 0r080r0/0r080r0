@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0r080r0
-- 👀 I’m highly interested in music, technology, health and research
-- 🌱 I’m currently putting my acquired skills from a Research Master's in Psychological Science to good use 
-- 💞️ I’m open to collabs on projects incl. data analysis, clinical interventions and real-life applications, especially in the music industry
+- 💻 An interdisciplinary analytics & tech professional with a solid background in psychological research (The Netherlands & Sweden)
+- 🌐 Tech-savvy with programming skills, critical thinking and creative problem-solving skills
+- 💞️ Passionate about health tech, web development, research innovation, and music
 - 📫 How to reach me - just shoot me a message here or on LinkedIn!
 
 <!---
