@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0r080r0
-- 💻 An interdisciplinary analytics and research consultant with a background in psychological science (The Netherlands & Sweden)
+- 💻 An interdisciplinary research consultant and analyst with a background in psychological science (The Netherlands & Sweden)
 - 🌐 Tech-savvy with programming skills, critical thinking and creative problem-solving skills
 - 💞️ Passionate about health tech, research innovation, outdoor sports and music
 
