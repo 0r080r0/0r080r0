@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @0r080r0
 - 💻 An interdisciplinary analytics and research consultant with a background in psychological science (The Netherlands & Sweden)
 - 🌐 Tech-savvy with programming skills, critical thinking and creative problem-solving skills
-- 💞️ Passionate about health tech, web development, research innovation, outdoor sports and music
-- 📫 How to reach me - just shoot me a message here or on LinkedIn!
+- 💞️ Passionate about health tech, research innovation, outdoor sports and music
 
 <!---
 0r080r0/0r080r0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
