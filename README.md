@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0r080r0
-- 💻 A research consultant, analyst and mental health coach with a research degree in psychological science (Netherlands & Sweden)
+- 💻 An interdisciplinary research consultant, analyst and mental health coach with research degrees in psychology (Netherlands & Sweden)
 - 🌐 Tech-savvy with programming skills, critical thinking and creative problem-solving skills
 - 💞️ Passionate about health tech, digital health, research innovation, outdoor sports and music
 
